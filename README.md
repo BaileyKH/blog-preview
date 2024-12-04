@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/BaileyKH/blog-preview](https://github.com/BaileyKH/blog-previews)
-- Live Site URL: [https://social-links-mauve.vercel.app/](https://social-links-mauve.vercel.app/)
+- Live Site URL: [https://blog-preview-sandy-nu.vercel.app/](https://blog-preview-sandy-nu.vercel.app/)
 
 ## My process
 
